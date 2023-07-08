@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # app_project_1
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Flutter
 >>>>>>> 08468d1d6dcca9fe2b221a1d756cd796c641454a
+=======
+# statefaul_widget_and_Stateful_widget_flutter
+>>>>>>> a36b442efffed404c9c2141fbe8a1e6ae5fee516
